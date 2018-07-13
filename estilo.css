@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    overflow-x: hidden;
+}
+
+header{
+    background-image: url(img/banner.png);
+    background-repeat: no-repeat;
+    
+}
+
+#imagem2{
+    margin-left: 900px;
+}
+
+#notify{
+    margin-left: 200px;
+    margin-top: -350px;
+}
+
+section img{
+    display: flex;
+    margin-top: 300px;
+    border-radius: 50%;
+    background-color: red;
+    justify-content: space-evenly;
+    
+}
+
+
